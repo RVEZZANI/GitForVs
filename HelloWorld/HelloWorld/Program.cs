@@ -14,6 +14,7 @@ namespace HelloWorld
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Hola Mundo!");
             Console.WriteLine("Bonjour le monde!");
+            Console.WriteLine("Hallo Welt!");
 
             Console.ReadLine();
         }
